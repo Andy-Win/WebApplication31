@@ -8,7 +8,7 @@ env:
   CONTAINER_APP_NAME: webapplication31-app-20220429080
   CONTAINER_APP_RESOURCE_GROUP_NAME: aapt0429LinuxGroup
   CONTAINER_REGISTRY_LOGIN_SERVER: webapplication3120220429081010.azurecr.io
-  DOCKER_FILE_PATH: ./Dockerfile
+  DOCKER_FILE_PATH: WebApplication31/Dockerfile
   PROJECT_NAME_FOR_DOCKER: webapplication31
 jobs:
   build:
